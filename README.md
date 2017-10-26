@@ -1,8 +1,8 @@
 # gen
 gen(generate) data for wanting
 
-gen scp
-	ftp
+gen addr scp
+	addr ftp
 	wave
 	code
 	...
