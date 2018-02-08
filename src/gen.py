@@ -27,6 +27,7 @@ def echo(args):
         sys.stdout.write(greeting + ' ')
     sys.stdout.write('\n')
 
+
 def main():
     """ main function"""
     parser = argparse.ArgumentParser(description="Gen data for wanting")
